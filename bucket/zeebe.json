@@ -1,5 +1,5 @@
 {
-    "version": "1.3.7",
+    "version": "1.3.9",
     "description": "Distributed Workflow Engine for Microservices Orchestration",
     "homepage": "https://camunda.com/products/cloud/workflow-engine/",
     "license": {
@@ -11,11 +11,11 @@
     },
     "architecture": {
         "64bit": {
-            "url": "https://github.com/camunda-cloud/zeebe/releases/download/1.3.7/camunda-cloud-zeebe-1.3.7.zip",
-            "hash": "sha1:9be66c8c91ab3aeb07b1861f40a29e6b4f183ffc"
+            "url": "https://github.com/camunda-cloud/zeebe/releases/download/1.3.9/camunda-cloud-zeebe-1.3.9.zip",
+            "hash": "sha1:df08cc7b65e1e63674bc178cb7741a1e3f281571"
         }
     },
-    "extract_dir": "camunda-cloud-zeebe-1.3.7",
+    "extract_dir": "camunda-cloud-zeebe-1.3.9",
     "bin": [
         [
             "bin\\broker.bat",
