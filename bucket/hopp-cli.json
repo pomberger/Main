@@ -1,12 +1,12 @@
 {
-    "version": "0.0.6",
+    "version": "0.0.8",
     "description": "An HTTP CLI client for Hoppscotch, an alternative to curl/httpie",
     "homepage": "https://hoppscotch.io/",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/hoppscotch/hopp-cli/releases/download/v0.0.6/hopp-cli_0.0.6_windows_x86_64.tar.gz",
-            "hash": "da51a43cc1cbcbbe2bdf6d8b5f6b7677f20507a1d585fa15d7e44789bf21f6f1"
+            "url": "https://github.com/hoppscotch/hopp-cli/releases/download/v0.0.8/hopp-cli_0.0.8_windows_x86_64.tar.gz",
+            "hash": "17307a8d0fa1b38174807a10218d23dffc0c58c46449912fe472595cc23acfef"
         }
     },
     "bin": "hopp-cli.exe",
