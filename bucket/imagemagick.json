@@ -1,16 +1,16 @@
 {
-    "version": "6.9.13-27",
+    "version": "7.1.2-2",
     "description": "Create, edit, compose, and convert 200+ of bitmap images formats.",
     "homepage": "https://imagemagick.org/",
     "license": "ImageMagick",
     "architecture": {
         "64bit": {
-            "url": "https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-6.9.13-27-Q16-HDRI-x64-dll.exe",
-            "hash": "4bc9a9443b6532b240f2af1e61ca5a102b9b4a568d517aad123e90e2a3043789"
+            "url": "https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.2-2-Q16-HDRI-x64-dll.exe",
+            "hash": "53e5dc64cbe37ba2dbef92b24a80f7f0ef5c6121da62f9f7b3d6d1f2a5998e6d"
         },
         "32bit": {
-            "url": "https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-6.9.13-27-Q16-HDRI-x86-dll.exe",
-            "hash": "4556653bd155515b671cae4d1c53b512c25d5891bc4a41a93304a2be44e5015e"
+            "url": "https://download.imagemagick.org/ImageMagick/download/binaries/ImageMagick-7.1.2-2-Q16-HDRI-x86-dll.exe",
+            "hash": "4290316df079d9213b4dcbaaf1d22903dc46e2c249c54ee42c4a41a332c9eb21"
         }
     },
     "innosetup": true,
